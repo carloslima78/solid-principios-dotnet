@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Principios.SOLID\\Principios.SOLID.csproj": {}
+    "C:\\Estudos\\SOLID\\solid-principios-dotnet\\Principios.SOLID\\Principios.SOLID.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Principios.SOLID\\Principios.SOLID.csproj": {
+    "C:\\Estudos\\SOLID\\solid-principios-dotnet\\Principios.SOLID\\Principios.SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Principios.SOLID\\Principios.SOLID.csproj",
+        "projectUniqueName": "C:\\Estudos\\SOLID\\solid-principios-dotnet\\Principios.SOLID\\Principios.SOLID.csproj",
         "projectName": "Principios.SOLID",
-        "projectPath": "C:\\Estudos\\Principios.SOLID\\Principios.SOLID.csproj",
+        "projectPath": "C:\\Estudos\\SOLID\\solid-principios-dotnet\\Principios.SOLID\\Principios.SOLID.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Principios.SOLID\\obj\\",
+        "outputPath": "C:\\Estudos\\SOLID\\solid-principios-dotnet\\Principios.SOLID\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
