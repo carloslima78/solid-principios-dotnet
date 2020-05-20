@@ -1,0 +1,9 @@
+C:\Estudos\Principios.SOLID\bin\Debug\netstandard2.0\Principios.SOLID.deps.json
+C:\Estudos\Principios.SOLID\bin\Debug\netstandard2.0\Principios.SOLID.dll
+C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.AssemblyInfoInputs.cache
+C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.AssemblyInfo.cs
+C:\Estudos\Principios.SOLID\bin\Debug\netstandard2.0\Principios.SOLID.pdb
+C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.csproj.CoreCompileInputs.cache
+C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.dll
+C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.pdb
+C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.csprojAssemblyReference.cache
