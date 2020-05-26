@@ -7,3 +7,12 @@ C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.csproj.Cor
 C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.dll
 C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.pdb
 C:\Estudos\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.csprojAssemblyReference.cache
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\bin\Debug\netstandard2.0\Principios.SOLID.deps.json
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\bin\Debug\netstandard2.0\Principios.SOLID.dll
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\bin\Debug\netstandard2.0\Principios.SOLID.pdb
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.csprojAssemblyReference.cache
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.csproj.CoreCompileInputs.cache
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.AssemblyInfoInputs.cache
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.AssemblyInfo.cs
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.dll
+C:\Estudos\SOLID\solid-principios-dotnet\Principios.SOLID\obj\Debug\netstandard2.0\Principios.SOLID.pdb
